@@ -1,0 +1,19 @@
+{
+  "name": "react-native-dummy",
+  "version": "0.1.0",
+  "description": "'Dummy' unfunctional out-of-tree platform for unit testing RNPM + Metro",
+  "main": "Libraries/react-native-dummy/react-native-dummy-implementation.js",
+  "files": [
+    "Libraries",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": "https://github.com/react-native-community/react-native-dummy.git",
+  "license": "MIT",
+  "rnpm": {
+    "haste": {
+      "platforms": ["dummy"],
+      "providesModuleNodeModules": ["react-native-dummy"]
+    }
+  }
+}
