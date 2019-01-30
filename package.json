@@ -1,6 +1,6 @@
 {
   "name": "react-native-dummy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "'Dummy' unfunctional out-of-tree platform for unit testing RNPM + Metro",
   "main": "Libraries/react-native-dummy/react-native-dummy-implementation.js",
   "files": [
